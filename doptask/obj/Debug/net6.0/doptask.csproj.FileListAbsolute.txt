@@ -1,0 +1,15 @@
+C:\Studies\CSharp\HomeworkCSharp8\doptask\bin\Debug\net6.0\doptask.exe
+C:\Studies\CSharp\HomeworkCSharp8\doptask\bin\Debug\net6.0\doptask.deps.json
+C:\Studies\CSharp\HomeworkCSharp8\doptask\bin\Debug\net6.0\doptask.runtimeconfig.json
+C:\Studies\CSharp\HomeworkCSharp8\doptask\bin\Debug\net6.0\doptask.dll
+C:\Studies\CSharp\HomeworkCSharp8\doptask\bin\Debug\net6.0\doptask.pdb
+C:\Studies\CSharp\HomeworkCSharp8\doptask\obj\Debug\net6.0\doptask.csproj.AssemblyReference.cache
+C:\Studies\CSharp\HomeworkCSharp8\doptask\obj\Debug\net6.0\doptask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studies\CSharp\HomeworkCSharp8\doptask\obj\Debug\net6.0\doptask.AssemblyInfoInputs.cache
+C:\Studies\CSharp\HomeworkCSharp8\doptask\obj\Debug\net6.0\doptask.AssemblyInfo.cs
+C:\Studies\CSharp\HomeworkCSharp8\doptask\obj\Debug\net6.0\doptask.csproj.CoreCompileInputs.cache
+C:\Studies\CSharp\HomeworkCSharp8\doptask\obj\Debug\net6.0\doptask.dll
+C:\Studies\CSharp\HomeworkCSharp8\doptask\obj\Debug\net6.0\refint\doptask.dll
+C:\Studies\CSharp\HomeworkCSharp8\doptask\obj\Debug\net6.0\doptask.pdb
+C:\Studies\CSharp\HomeworkCSharp8\doptask\obj\Debug\net6.0\doptask.genruntimeconfig.cache
+C:\Studies\CSharp\HomeworkCSharp8\doptask\obj\Debug\net6.0\ref\doptask.dll
